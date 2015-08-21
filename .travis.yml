@@ -1,12 +1,12 @@
 language: node_js
 node_js:
-- 0.12.2
+    - 0.12.2
 deploy:
-  provider: heroku
-  api_key:
-    secure: cdlJVN+7GYhOVq/NaDJvO5y9x9/LpeHsfbmLaY3RRve4FB2nizlgLKIFHJms24IChT2hrjT1rFcJ5+9teEtwnB2lLEGNzLdPWNYZ+Q1jl/E8AVXeKB85KCjziNAvgxJX/iLzxEqQg24OpaZL++hrg75ygttKxaoKyjKMOvMWs/bNFZjIk1/cd+MFDSQj9537kB+QeCOhpLPbIypGiTiAEfwhOUgkLIR1J/9sLt88+0qxAaRE2L8a51mHmyB/XKb4WWdZdEfOozZ0r9LJGOj7GsuGL3ASzJYRo2JUkIZem0A/Zdu1OnWMFUo8F+KdD8lsmbNm61eDLwakjEEu+ML7T05YeXpgdT/y4QgdhTrxBD87sDWMU8e/FzYA7TZSOAFh7zNodU/k8qMhRBOBYiIry12pznymMOkxH5qbjBxtkYv4YbStE4qTbIAsDe5Gy38PBA8+orr3OMtM93zPowj8iW2L4gpzQ74VYXE5okjCYiZjB2Gu1VYaiiapXv+rjICwca+/PEkBwQWDM0qKjbmstFdubeXjydhy1dOVs3Cq+IS1+xBfbzQgoxLIIlYONkMz2zWCnJfE87vFm1s5e02h9WzV8XynhxHNHfoYeBe9JXk/wQ53oxNcfU/RiGCb8V419ietl2tJW0fkx54+W/7W1tfHh3rIJGqEXxMbVLkGXhU=
-  app: 
-    Development: thegamedev
-    master: enigmatic-earth-2412
-  on:
-    repo: huntcsg/TheGame
+    provider: heroku
+    api_key:
+        secure: B2vc9HruONsP10JLf6yKjF1gDEzLcvVqClUvWuhmOd/rf2/gHTRKqjOl+y0oCzxsmuZVTd7r/jnF8DMdGEKTAsYQsc9uqrVw8nvfAEPdgJOnJKmGr5CqHHqjoMZ23z+dRFV2Obseu1uLt3WfjoW0tyRyx4rIKCfQq3lCghIHM7RVGObhr/l6pqVheuLJq2YPp6O9anp+4NTF/oIydl764SN3CHcdxhQmVyolvLnjgslUVlDbuQBide66unZIQObvrch50hQFT/mS23WmYG0n74LYJsKXQxb0HdCbcLaCQv5VEmuidZ1zbklo5ad/DO+0IVppUOAbCxuimw1tb0h9jVSfMXbhkKnFYkXYgQkIKkKbdNXtHQBAruz8a0h9u5v0MmkjWvUmWj1KyADzs0LlEY/tZw6UYMZzBC6+7j61tYWopAYUElsK6E5uT8JbNtgit2XZ4JwtkQUY41XblYPEGMr1+3JI1+BxB6Qm0yBLdYvc6M/cOZM5e2lmSNG1lkgQbAPaSLDTc78DZ7lzcA7DtVqoqd2S1iN/RYwlGSNWpjn+X+Q4zsBUHlFX9o04pI1tRuLRqmTSumtmHTdbLSI41Ns6LCKtnMwGni+gYMhFsVAfooPRbCPWptIMIxUbWHy5Q7/aGkNErX0knck4NZY1gSXudduPUOS/Lp4PnD4VgO0=
+    app:
+        Development: thegamedev
+        master: enigmatic-earth-2412
+    on:
+        repo: huntcsg/TheGame
