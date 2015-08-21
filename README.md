@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/huntcsg/TheGame.svg)](https://travis-ci.org/huntcsg/TheGame)
-
+Development: [![Build Status](https://travis-ci.org/huntcsg/TheGame.svg?branch=Development)](https://travis-ci.org/huntcsg/TheGame)
+Master: [![Build Status](https://travis-ci.org/huntcsg/TheGame.svg?branch=master)](https://travis-ci.org/huntcsg/TheGame)
 # node-js-getting-started
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
